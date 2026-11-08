@@ -1,0 +1,6 @@
+build/
+dist/
+share/
+test/*
+!test/run_qemu.sh
+.DS_Store
