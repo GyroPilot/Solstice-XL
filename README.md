@@ -5,7 +5,7 @@ to the banana's LisaSolstice on the Lisa; since 0.1d7 the two line up (Tim: "I w
 align"). 68000 code, System 6 and 7, Plus and up, built with Retro68. No network needed.
 
 It opens on **Tim's solargraph** (a pinhole camera in a pop can on his roof in Cincinnati, June to December
-solstice); any key or a click goes on. **Seasons menu**, the same names, order and keys as LisaSolstice 0.1:
+solstice); any key or a click goes on. **Seasons menu**, the same names, order and keys as LisaSolstice 1.0:
 
 | Key | Page | Notes |
 |---|---|---|
